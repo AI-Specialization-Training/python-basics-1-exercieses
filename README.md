@@ -1,4 +1,4 @@
-# Python Basics Exercises - Student Instructions
+# Python Basics Exercises
 
 **Welcome!** 🎉  
 
